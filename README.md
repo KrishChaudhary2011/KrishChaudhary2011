@@ -9,6 +9,7 @@ I've already delivered a real client website from scratch — handling everythin
 
 Languages & Markup
 HTML CSS Python C
+JavaScript
 
 Python Libraries
 Pandas NumPy
@@ -43,7 +44,6 @@ Currently maintaining and adding new features for the client
 📚 Currently Learning
 
 
-JavaScript (working towards front-end development)
 Data Science fundamentals
 
 
